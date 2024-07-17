@@ -8,4 +8,4 @@ let people = {
 
 console.log("Name: " + people.name);
 console.log("Age: " + people.age);
-console.log("City: " + people.city);
+console.log("City: " + people.city); 
