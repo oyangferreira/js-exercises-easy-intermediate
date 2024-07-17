@@ -25,4 +25,4 @@ function addElements() {
 }
 
 let result = addElements();
-console.log("Sum of the elements:", result);
+console.log("Sum of the elements:", result); 
