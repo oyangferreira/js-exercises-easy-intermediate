@@ -8,4 +8,4 @@ console.log("String: " + string);
 console.log("Number: " + num);
 console.log("Boolean: " + decision);
 console.log("Null: " + nullVar);
-console.log("Undefined: " + undefined);
+console.log("Undefined: " + undefined); 
